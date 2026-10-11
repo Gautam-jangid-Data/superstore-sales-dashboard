@@ -1,4 +1,4 @@
-# Superstore Sales dashboard (2011–2014)
+# Superstore Sales Dashboard (2011–2014)
 
 An interactive Power BI dashboard that analyzes 51,290 orders from a global retail store to find where the business makes money, where it loses money, and how discounts affect profit.
 
